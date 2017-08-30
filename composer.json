@@ -1,0 +1,17 @@
+{
+  "name": "mike61988/zsh-mit-theme",
+  "description": "ZSH Theme",
+  "type": "bash",
+  "version": "1.0.1",
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "authors": [
+    {
+      "name": "Mike61988",
+      "email": "chandlerbing7@gmail.com",
+      "role": "Leader"
+    }
+  ]
+}
